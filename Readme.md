@@ -1,8 +1,8 @@
 ubuntu commands to run HPC PRAC
-
-nano bfs.cpp
-g++ -o bfs bfs.cpp -fopenmp
-./bfs
+<br/>
+nano bfs.cpp <br/>
+g++ -o bfs bfs.cpp -fopenmp <br/>
+./bfs <br/>
 
 
 
